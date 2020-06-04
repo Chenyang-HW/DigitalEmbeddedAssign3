@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\lcy\desktop\des_a3\assignment3\accelerometer\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1585678444 source:c:\users\lcy\desktop\des_a3\assignment3\accelerometer\accelerometer.c
+	<stdio.h>
+	<stdlib.h>
+	"typedefs.h"
+	"SPImaster.h"
+
+1585228676 c:\users\lcy\desktop\des_a3\assignment3\accelerometer\typedefs.h
+
+1585237017 c:\users\lcy\desktop\des_a3\assignment3\accelerometer\spimaster.h
+	"typedefs.h"
+
+1585237017 source:c:\users\lcy\desktop\des_a3\assignment3\accelerometer\spimaster.h
+	"typedefs.h"
+
+1585228676 source:c:\users\lcy\desktop\des_a3\assignment3\accelerometer\typedefs.h
+
+1586699428 source:c:\users\lcy\desktop\des_a3_14\assignment3\accelerometer\accelerometer.c
+	<stdio.h>
+	<stdlib.h>
+	"typedefs.h"
+	"SPImaster.h"
+
+1585228676 c:\users\lcy\desktop\des_a3_14\assignment3\accelerometer\typedefs.h
+
+1585237017 c:\users\lcy\desktop\des_a3_14\assignment3\accelerometer\spimaster.h
+	"typedefs.h"
+
